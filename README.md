@@ -2,7 +2,7 @@
 avance1
 Clonar el repositorio
 
-git clone https://github.com/DavidServn/fbcmd4j.git
+git clone https://github.com/Andreart99/fbcmd4j.git
 Importar a Eclipse
 
 Dar clic en File -> Import -> Existing Projects into Workspace.
@@ -17,6 +17,7 @@ Abrir la carpeta bin.
 Abrir la terminal (utilizar privilegios de administrador en Windows).
 Navegar a la carpeta fbcmd4j/bin donde se encuentra el archivo fbcmd4j.jar.
 Ejecutar el comando java -jar fbcmd4j.jar.
+
 Uso
 Configurar la cuenta de Facebook
 
